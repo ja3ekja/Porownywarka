@@ -1,0 +1,5 @@
+class Klaska{
+	public static void main(String[] args){
+System.out.println("Witaj świąt! Powiedziała Marysia po nocnej zmianie. ");
+}
+}
